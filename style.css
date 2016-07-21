@@ -1,0 +1,18 @@
+body{
+	background: black;
+
+}
+canvas{
+	background-color: white;
+	display: block;
+	margin: 30px auto 0px;
+}
+p{
+	color:white;
+text-align: center;
+
+}
+a{
+	text-shadow: 1px 1px 1px red, 0 0 1em red;
+	border: 1px solid red;
+}
